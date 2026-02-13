@@ -1,0 +1,3 @@
+Method,Keypoints Img1,Keypoints Img2,Good Matches,Inlier Ratio,Time (s)
+SIFT,1031,1368,193,0.549,0.554
+ORB,1000,1000,160,0.462,0.391
